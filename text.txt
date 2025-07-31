@@ -1,0 +1,8 @@
+this is an emacs editor reminder.
+to open a file
+c-x c-f
+to save a file
+c-x c-s
+to close emacs
+c-x c-c
+thanks
